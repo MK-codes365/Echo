@@ -1,6 +1,7 @@
 # Contributing to Echo
 
-Thank you for your interest in contributing to **SnapMap**! Contributions are always welcome and appreciated. Please read this guide carefully before starting, as **PRs not following these rules may not be reviewed or accepted**.
+Welcome to **Echo**!
+Before starting, make sure to read the following rules carefully!
 
 ---
 
@@ -9,7 +10,7 @@ Thank you for your interest in contributing to **SnapMap**! Contributions are al
 - Go through the `README.md` to understand the project.
 - Check the **Issues** section and claim an issue by commenting on it.
 - **WAIT** until a maintainer has assigned you to the issue (If issue is labelled as open-for-all, you may skip this and directly start working)
-- If something is unclear or no contribution guide exists for a specific feature, **clarify with the mentors on the OpenCode Discord.**. .
+- If something is unclear or no contribution guide exists for a specific feature, **clarify with the mentors on the OpenCode Discord.**
 
 ---
 
@@ -19,11 +20,11 @@ Thank you for your interest in contributing to **SnapMap**! Contributions are al
 - Fork the *Echo* repository to your GitHub account.
 - Clone your fork locally:
   ```bash
-  git clone https://github.com/<your-username>/SnapMap.git
+  git clone https://github.com/<your-username>/Echo.git
   ```
 - Navigate to the project directory:
   ```bash
-  cd SnapMap
+  cd Echo
   ```
 
 ---
